@@ -1,1 +1,1 @@
-# LOS--aprende-espanol
+# LOS – Aprende español como un bebé\n\nEste proyecto está basado en Next.js y Tailwind CSS.\n\n## Ejecutar localmente\n```bash\nnpm install\nnpm run dev\n```
