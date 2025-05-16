@@ -1,9 +1,1 @@
-# LOS – Aprende español como un bebé
-
-Este proyecto está basado en Next.js y Tailwind CSS.
-
-## Ejecutar localmente
-```bash
-npm install
-npm run dev
-```
+# LOS – Aprende español como un bebé\n\nEste proyecto está basado en Next.js y Tailwind CSS.\n\n## Ejecutar localmente\n```bash\nnpm install\nnpm run dev\n```
